@@ -1,0 +1,4 @@
+{
+  "MONGODB_URI": "Your mongoDB Atlas",
+  "base_URL": "http://localhost:5000"
+}
